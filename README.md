@@ -1,7 +1,9 @@
 # CDS-Experiment-10
-# AIM:-To study and implement Pointer Operations (call by value and call by reference)
+# AIM:-
+To study and implement Pointer Operations (call by value and call by reference)
 
-# Software used :- VS code
+# Software used :-
+VS code
 
 # Theory:-
 There are to ways to call a variable to a function for various operations
@@ -82,6 +84,10 @@ cout << "pb points to: " << *pb << endl;
 
 # OUTPUT:
 
+![image](https://github.com/user-attachments/assets/2c2d2ad9-186f-4eb7-9323-0e0ff9a4dc70)
+
+
+![image](https://github.com/user-attachments/assets/a22880c2-8716-442e-9efe-016abffcb8e9)
 
 
 
