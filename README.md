@@ -92,4 +92,8 @@ cout << "pb points to: " << *pb << endl;
 
 
  # Conclusion:- <br>
-in this experiment we learnt to use call by value and call by reference pointers in c++
+Call by Value 1 is effective when you need to maintain the integrity of the original data and when working with small or primitive data types where copying overhead is minimal. It provides safety against unintended modifications but can become inefficient with large data.
+
+Call by Reference is ideal for scenarios where modifying the original data is desired or necessary, and it offers performance benefits due to reduced copying. It is particularly beneficial for large data structures but requires careful handling to avoid accidental side effects.
+
+The choice between Call by Value 1 and Call by Reference should be made based on the requirements of data modification, memory efficiency, and performance considerations.
